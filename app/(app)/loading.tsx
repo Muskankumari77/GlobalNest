@@ -1,0 +1,1 @@
+export default function Loading() { return <div className="space-y-4" role="status" aria-label="Loading"><div className="skeleton h-10 w-64" /><div className="skeleton h-40" /><div className="grid grid-cols-4 gap-4"><div className="skeleton h-24" /><div className="skeleton h-24" /><div className="skeleton h-24" /><div className="skeleton h-24" /></div></div>; }
